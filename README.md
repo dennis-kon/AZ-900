@@ -114,23 +114,6 @@ This study guide is designed to help individuals prepare for the AZ-900: Microso
 - [Microsoft Learn Portal](https://docs.microsoft.com/en-us/learn/)
 - [Register for the AZ-900 Exam!](https://docs.microsoft.com/learn/certifications/exams/az-900)
 
-## Contribution Guidelines
-
-Thank you for considering contributing to this study guide! To contribute, please follow these guidelines:
-
-1. Fork the repository and clone it to your local machine.
-2. Create a new branch for your changes.
-3. Make your contributions.
-4. Test your changes to ensure accuracy.
-5. Commit your changes with descriptive commit messages.
-6. Push your changes to your fork.
-7. Submit a pull request to the main repository's `main` branch.
-
-We appreciate your contributions to making this study guide comprehensive and helpful for others preparing for the AZ-900 exam.
-
----
-
-We have gathered an extensive collection of resources covering Cloud, DevOps, and DevSecOps in our repository, [CloudCaptain](https://github.com/nomadicmehul/CloudCaptain). It serves as a one-stop-shop for all your learning needs in these domains. 
-
-Explore the repository at [CloudCaptain](https://github.com/nomadicmehul/CloudCaptain) to access a wealth of valuable content. Whether you're a beginner or an experienced professional, you'll find resources tailored to your needs. 
+ 
+--- 
 
